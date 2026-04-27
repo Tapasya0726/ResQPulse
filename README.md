@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/resqpulse-logo.jpeg" alt="ResQPulse Logo" width="250"/>
 </p>
-#
 
 ResQPulse is a real-time emergency response system that connects **users, ambulances, and hospitals** on a unified platform. It enables instant SOS alerts, live ambulance coordination, and real-time hospital availability tracking using a scalable MERN architecture.
 
